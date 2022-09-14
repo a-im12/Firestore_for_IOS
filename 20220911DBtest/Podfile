@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '15.5'
+
+target '20220911DBtest' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # pod 'Firebase/Analytics'
+  # Pods for 20220911DBtest
+
+end
